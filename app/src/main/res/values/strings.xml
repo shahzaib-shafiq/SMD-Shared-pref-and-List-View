@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB_2</string>
+    <string name="student_data">STUDENT DATA</string>
+    <string name="enter_name">ENTER NAME</string>
+    <string name="enter_phone">ENTER PHONE</string>
+    <string name="enter_sgpa">ENTER SGPA</string>
+    <string name="enter_cgpa">ENTER CGPA</string>
+    <string name="enter_cnic">ENTER CNIC</string>
+    <string name="name">Name</string>
+    <string name="cnic">CNIC</string>
+    <string name="phone">PHONE</string>
+    <string name="sgpa">SGPA</string>
+    <string name="cgpa">CGPA</string>
+    <string name="save">SAVE</string>
+</resources>
